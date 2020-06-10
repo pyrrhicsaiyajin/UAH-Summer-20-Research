@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "test",
+			"path": "C:\\Users\\AndrewFinocchioJr\\OneDrive - Noetic Strategies, Inc\\Documents\\PlatformIO\\Projects\\test"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "D:\\Anaconda\\python.exe"
+	}
+}
